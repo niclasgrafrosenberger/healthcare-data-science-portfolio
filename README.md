@@ -4,8 +4,6 @@ This repository contains selected data science and AI projects in the healthcare
 
 ## Projects
 - [ECG Arrhythmia Detection](https://github.com/Bananas723/ecg-arrhythmia-detection)
-- (coming soon) Medical Image Analysis
-- (coming soon) ICU Early Warning Models
 
 ## Background
 B.Eng. Biomedical Engineering with focus on data-driven analysis of biomedical signals.
