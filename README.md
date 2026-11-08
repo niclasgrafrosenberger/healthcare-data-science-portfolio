@@ -3,7 +3,7 @@
 This repository contains selected data science and AI projects in the healthcare and medical engineering domain.
 
 ## Projects
-- [ECG Arrhythmia Detection]([https://github.com/niclasgrafrosenberger/ecg-arrhythmia-detection])
+- [ECG Arrhythmia Detection](https://github.com/niclasgrafrosenberger/ecg-arrhythmia-detection)
 
 ## Background
 B.Eng. Biomedical Engineering with focus on data-driven analysis of biomedical signals.
